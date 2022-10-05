@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Eduardo Barraza </title>
+</head>
+<body style="background-color: aqua; color: purple; font-size: 25px">
+<h1>Eduardo Barraza's Page </h1>
+<h2> About Me</h2>
+I was born in Aurora, Illinois. I grew up on the east side of Aurora, by Farnsworth Ave. I attended public school up until high
+school, when I attended <a href="http://marmion.org"> Marmion Academy.</a> <br />
+<br />
+<img src="images/marmion.png" alt="Marmion Academy" height="400px">
+
+</body>
+</html>
